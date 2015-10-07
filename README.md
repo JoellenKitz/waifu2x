@@ -1,12 +1,10 @@
-# waifu2x
-
-Image Super-Resolution for anime-style-art using Deep Convolutional Neural Networks.
+Created anime-style while using Deep Convolutional Neural Networks. Amazingly propelled by Hatsune Miku. For those not aware of present circumstances, Hatsune Miku is a fine looking anime darling yet the turn is, she's NOT in view of any anime specifically. She's the brainchild of Crypton Future Media, and her persona depended on Crypton's singing synthesizer. She's a popular Japanese popular society symbol, and most as of late Pharell Williams discharged a tune called "The previous evening, Good Night" highlighting none other than the heavenly Hatsune Miku!
 
 Demo-Application can be found at http://waifu2x.udp.jp/ .
 
 ## Summary
 
-Click to see the slide show.
+The slide show has been altered incalculable times however I figure this is presently immaculate, or practically. Additional moving documentation can be seen <a href="https://write-right.net/">here</a>
 
 ![slide](https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png)
 
